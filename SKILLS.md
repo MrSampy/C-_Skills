@@ -22,16 +22,23 @@
 | 🟦 code block        | 🟦 equality operators | 🟦 higher order       | 🟨 Dictionary       | 🟦 unreachable code  |
 | ⬜ generics          | 🟦 logical operators  | 🟦 callback           | 🟨 RegExp           | 🟦 duplicate code    |
 | 🟨 this              | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
-| 🟨 arrow function    | 🟦 Tuples             | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
-| 🟨 async function    |                       | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
-| 🟨 operators ? and ??|                       | 🟦 factory            |                     | ⬜️ prettier          |
-| 🟨 Threads           |                       | 🟦 pool               |                     | 🟦 unittest          |
+| 🟨 arrow function    | 🟨 tuples             | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
+| 🟨 async function    | 🟨 transform operator | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
+| 🟨 operators ? and ??| 🟨 Pattern matching   | 🟦 factory            | 🟨 structure        | ⬜️ prettier          |
+| 🟨 Threads           | 🟨 LINQ               | 🟦 pool               | 🟨 class            | 🟦 unittest          |
 | 🟨 var               |                       | 🟦 wrapper            |                     | 🟦 git               |
-|                      |                       | 🟨 default parameters |                     | 🟦 github            |
+| 🟨 using             |                       | 🟨 default parameters |                     | 🟦 github            |
 |                      |                       | 🟦 lambda             |                     | 🟨 ASP.NET           |
 |                      |                       | 🟨 params             |                     |                      |
 |                      |                       | 🟨 out modifier       |                     |                      |
 |                      |                       | ⬜️ yield              |                     |                      |
 |                      |                       | 🟨 static             |                     |                      |
+|                      |                       | 🟨 delegate           |                     |                      |
+|                      |                       | 🟨 event              |                     |                      |
+|                      |                       | 🟨 Action             |                     |                      |
+|                      |                       | 🟨 Predicate          |                     |                      |
+|                      |                       | 🟨 Func               |                     |                      |
+|                      |                       |                       |                     |                      |
+|                      |                       |                       |                     |                      |
 |                      |                       |                       |                     |                      |
 |                      |                       |                       |                     |                      |
