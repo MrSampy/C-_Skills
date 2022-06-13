@@ -26,9 +26,9 @@
 | 🟨 async function    | 🟨 transform operator | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
 | 🟨 operators ? and ??| 🟨 Pattern matching   | 🟦 factory            | 🟨 structure        | ⬜️ prettier          |
 | 🟨 Threads           | 🟨 LINQ               | 🟦 pool               | 🟨 class            | 🟦 unittest          |
-| 🟨 var               |                       | 🟦 wrapper            |                     | 🟦 git               |
-| 🟨 using             |                       | 🟨 default parameters |                     | 🟦 github            |
-|                      |                       | 🟦 lambda             |                     | 🟨 ASP.NET           |
+| 🟨 var               | 🟨 Task               | 🟦 wrapper            |                     | 🟦 git               |
+| 🟨 using             | 🟨 Parallel           | 🟨 default parameters |                     | 🟦 github            |
+| 🟨 typeof            |                       | 🟦 lambda             |                     | 🟨 ASP.NET           |
 |                      |                       | 🟨 params             |                     |                      |
 |                      |                       | 🟨 out modifier       |                     |                      |
 |                      |                       | ⬜️ yield              |                     |                      |
