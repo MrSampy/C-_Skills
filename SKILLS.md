@@ -19,11 +19,11 @@
 | 🟦 reference         | 🟨 tuples             | 🟦 partial            | 🟦 mixin, extend    | ⬜ silver bullet     |
 | 🟦 flag              | 🟦 throw              | ⬜️ curry              | ⬜ iterator         | ⬜ not invented here |
 | 🟦 lexical scope     | 🟦 try..catch..finally| 🟦 chaining           | ⬜ null             | 🟦 dead code         |
-| 🟦 code block        | 🟦 equality operators | 🟦 higher order       | 🟨 Dictionary       | 🟦 unreachable code  |
+| 🟦 code block        | 🟦 equality operators | 🟦 higher order       | ⬜️ Symbol           | 🟦 unreachable code  |
 | ⬜ generics          | 🟦 logical operators  | 🟦 callback           | 🟨 RegExp           | 🟦 duplicate code    |
 | 🟨 this              | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
 | 🟨 arrow function    | 🟨 Parallel           | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
-| 🟨 async function    | 🟨 transform operator | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
+| 🟨 async function    | 🟨 transform operator | ⬜️ memoize            |                     | 🟦 linter            |
 | 🟨 typeof            | 🟨 Pattern matching   | 🟦 factory            |                     | ⬜️ prettier          |
 | 🟨 Threads           | 🟨 LINQ               | 🟦 pool               |                     | 🟦 unittest          |
 | 🟨 var               | 🟨 Task               | 🟦 wrapper            |                     | 🟦 git               |
